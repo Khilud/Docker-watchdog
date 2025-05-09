@@ -1,3 +1,5 @@
+Here is the offical dokcer watchdog python package . I configured the code to write a log file about the processes happening in the docker watchdog.
+
 Docker Idle Watchdog
 ====================
 
